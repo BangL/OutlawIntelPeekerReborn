@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<mod name="OutlawIntelPeekerReborn"
+    author="Rex, BangL"
+	contact="https://steamcommunity.com/id/BangL"
+    version="2.0"
+    color="60 60 60">
+
+    <updates>
+        <update provider="modworkshop" identifier="48992"/>
+    </updates>
+
+    <hooks>
+        <post hook_id="lib/managers/hud/hudnotification" script_path="hooks/hudnotification.lua" />
+    </hooks>
+</mod>
