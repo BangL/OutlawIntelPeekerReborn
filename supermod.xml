@@ -2,11 +2,13 @@
 <mod name="OutlawIntelPeekerReborn"
     author="Rex, BangL"
 	contact="https://steamcommunity.com/id/BangL"
-    version="2.0"
+    version="2.1"
     color="60 60 60">
 
     <updates>
-        <update provider="modworkshop" identifier="48992"/>
+        <update identifier="outlawintelpeekerreborn">
+            <host meta="https://raw.githubusercontent.com/BangL/raid-mods-meta/main/outlawintelpeekerreborn.json"/>
+        </update>
     </updates>
 
     <hooks>
