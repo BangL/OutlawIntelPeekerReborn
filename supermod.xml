@@ -7,7 +7,7 @@
 
     <updates>
         <update identifier="outlawintelpeekerreborn">
-            <host meta="https://raw.githubusercontent.com/BangL/raid-mods-meta/main/outlawintelpeekerreborn.json"/>
+            <host meta="https://raw.githubusercontent.com/BangL/raid-mods-meta/main/outlawintelpeekerreborn.json" patchnotes="https://github.com/BangL/OutlawIntelPeekerReborn/blob/master/CHANGELOG.md"/>
         </update>
     </updates>
 
